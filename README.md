@@ -1,2 +1,0 @@
-# Javascript-Readme
-Javascript-Readme
